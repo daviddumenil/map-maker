@@ -21,6 +21,8 @@ Or a more detailed 2500px x 1800px view of Mexico using:
 docker run -v /tmp:/tmp daviddumenil/map-maker ./map-maker.rb 6 10 19 25 31
 ```
 
+## Credit
+
 Most of the heavy lifting is done using the excellent google-map-stitch Ruby library:
 
 https://github.com/tkellen/google-map-stitch
